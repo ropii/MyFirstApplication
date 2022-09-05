@@ -1,2 +1,2 @@
 # MyFirstApplication
-this is the firt app i built at yod b
+this is the first app i built at yod b

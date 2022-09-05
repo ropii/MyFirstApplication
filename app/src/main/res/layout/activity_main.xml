@@ -12,17 +12,23 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="shalom!"
+        android:id="@+id/tvMain"
         />
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="Enter your name"
+        android:id="@+id/etMain"
         />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="button"
         android:background="@drawable/mybutton"
+        android:id="@+id/btnMain"
+        android:onClick="onClick"
+
+
         />
     <ImageView
         android:layout_marginTop="20dp"
